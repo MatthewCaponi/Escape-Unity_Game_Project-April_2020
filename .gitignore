@@ -17,6 +17,7 @@
 /Assets/Resources/
 /Assets/Textures/
 /Assets/Archived/
+/Assets/Terrain/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -69,3 +70,9 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+#image formats
+*.png
+*.psd
+*.jpg
+*.tiff
